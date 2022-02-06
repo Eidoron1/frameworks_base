@@ -91,4 +91,7 @@
 
     <!-- Old mobile type icons -->
     <string name="use_old_mobiletype_title">Small mobile type icon</string>
+
+    <!-- Google Lens Screenshot string -->
+    <string name="lensss">Lens</string>
 </resources>
